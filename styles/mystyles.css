@@ -3,13 +3,12 @@
    font-family: Georgia, "Times New Roman",
           Times, serif;
 		  color: rgb(0, 0, 0);
-    background-color: #cbd2d3 }
+    background-color: #adb6b8 }
 
 	h1 {
     font-family: Helvetica, Geneva, Arial,
           SunSans-Regular, sans-serif }
-  a:link {
-    color: blue }
+
 	address {
     margin-top: 1em;
     padding-top: 1em;
@@ -31,8 +30,8 @@
     }
 
     .navbar-container {
-      background-color: rgb(31, 0, 88); /* Set the background color of the box */
-      padding: 10px; /* Adjust the padding to create space between the box and the navbar */
-      width: 99%; /* Make the box width fit its content */
-      margin: 0 auto; /* Center the box horizontally */
+      background-color: rgb(31, 0, 88); 
+      padding: 10px; 
+      width: 99%; 
+      margin: 0 auto; 
     }
