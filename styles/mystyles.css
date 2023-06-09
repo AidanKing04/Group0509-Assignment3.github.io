@@ -1,16 +1,12 @@
   body {
-
-   font-family: Georgia, "Times New Roman",
-          Times, serif;
 		  color: rgb(233, 233, 233);
       font-size: 13pt;
-    background-color: #000000 
+    background-color: #000000;
+    font-family: Calibri, Arial, sans-serif;  
 
   }
 
-	h1 {
-    font-family: Helvetica, Geneva, Arial,
-          SunSans-Regular, sans-serif }
+
 
 	address {
     margin-top: 1em;
@@ -19,7 +15,6 @@
 
     nav a {
       color: rgb(0, 0, 0);
-      font-family: Calibri;
       font-size: 17pt;
       text-decoration: none;
       margin-right: 20px;
@@ -47,5 +42,18 @@
       width: 98%;
       padding: 10px;
       border-radius: 10px;    
+      align-items: center;
       
+    }
+
+    p {
+      padding-left: 20px;
+    }
+
+    h1 {
+      padding-left: 10px;
+    }
+
+    h2 {
+      padding-left: 10px;
     }
